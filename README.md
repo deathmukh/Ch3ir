@@ -3,6 +3,10 @@
 ## Description
 This project provides a customizable 3D chair configurator built using React, Three.js, and R3F. It allows users to select from a variety of predefined chair colors. Users can view the chair in a 3D scene with realistic lighting and materials.
 
+
+https://github.com/deathmukh/Ch3ir/assets/91791452/971e4587-487e-4128-87ef-ddf93d259296
+
+
 ## Key Features
 - **Interactive Color Selection:** Users can easily switch between predefined colors.
 - **Realistic 3D Rendering:** The chair is rendered using Three.js and R3F, providing a visually appealing and interactive experience.
