@@ -39,3 +39,4 @@ https://github.com/deathmukh/Ch3ir/assets/91791452/971e4587-487e-4128-87ef-ddf93
 - [React Three Fiber documentation](https://docs.pmnd.rs/react-three-fiber)
 - [R3F Drei](https://github.com/pmndrs/drei#readme)
 - [PBR Textures](https://3dtextures.me/)
+## Credits: WAWA Sensei on youtube
